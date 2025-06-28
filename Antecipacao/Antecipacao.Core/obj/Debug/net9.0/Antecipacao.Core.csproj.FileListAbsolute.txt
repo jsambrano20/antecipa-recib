@@ -1,0 +1,11 @@
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\Antecipacao.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\Antecipacao.Core.AssemblyInfoInputs.cache
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\Antecipacao.Core.AssemblyInfo.cs
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\Antecipacao.Core.csproj.CoreCompileInputs.cache
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\bin\Debug\net9.0\Antecipacao.Core.deps.json
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\bin\Debug\net9.0\Antecipacao.Core.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\bin\Debug\net9.0\Antecipacao.Core.pdb
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\Antecipacao.Core.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\refint\Antecipacao.Core.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\Antecipacao.Core.pdb
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Core\obj\Debug\net9.0\ref\Antecipacao.Core.dll

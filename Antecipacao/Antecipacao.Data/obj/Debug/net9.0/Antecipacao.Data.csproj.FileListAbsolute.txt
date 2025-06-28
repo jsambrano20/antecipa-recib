@@ -1,0 +1,17 @@
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.csproj.AssemblyReference.cache
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.AssemblyInfoInputs.cache
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.AssemblyInfo.cs
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.csproj.CoreCompileInputs.cache
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\bin\Debug\net9.0\Antecipacao.Data.deps.json
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\bin\Debug\net9.0\Antecipacao.Data.runtimeconfig.json
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\bin\Debug\net9.0\Antecipacao.Data.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\bin\Debug\net9.0\Antecipacao.Data.pdb
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\bin\Debug\net9.0\Antecipacao.Core.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\bin\Debug\net9.0\Antecipacao.Core.pdb
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipa.64173B43.Up2Date
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\refint\Antecipacao.Data.dll
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.pdb
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\Antecipacao.Data.genruntimeconfig.cache
+C:\Users\sambr\OneDrive\Área de Trabalho\pocs\SIZE\antecipacao-recebiveis-pt\Antecipacao\Antecipacao.Data\obj\Debug\net9.0\ref\Antecipacao.Data.dll
