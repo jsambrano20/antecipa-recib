@@ -1,29 +1,50 @@
-# README do Projeto de Antecipação
+Aqui está uma versão mais bonita, organizada e estilizada do seu `README.md`, com ícones, seções bem destacadas e visual mais amigável, mantendo as instruções claras:
 
-Este README fornece uma visão geral do projeto, instruções para rodar a aplicação localmente e sugestões de melhorias.
-Aplicação full-stack, com um backend em .NET e React
+---
 
 ````md
-## Como Rodar a Aplicação Localmente
+# 🚀 Projeto de Antecipação de Recebíveis
 
-**Pré-requisitos:**
+Aplicação **Full-Stack** para antecipação de recebíveis, com **.NET 9** no backend e **React + TypeScript** no frontend.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- 🔹 **.NET 9** – Backend com ASP.NET Core
+- 🔹 **React + TypeScript** – Frontend moderno com Vite e HeroUI
+- 🔹 **SQL Server** – Banco de dados relacional (via Docker)
+- 🔹 **Docker** – Containerização do banco de dados
+
+---
+
+## ▶️ Como Rodar a Aplicação Localmente
+
+### ✅ Pré-requisitos
+
 - [.NET 9 SDK](https://dotnet.microsoft.com/)
-- React (Typescript, HeroUI e Vite)
-- Docker (para o banco de dados)
+- Node.js / npm
+- Docker
 
-### 1. Iniciar o Banco de Dados com Docker
+---
+
+### 🐳 1. Iniciar o Banco de Dados com Docker
 
 ```bash
-docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=$(read -s -p 'Digite a senha do SQL Server: ' password && echo $password)" \
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Brasil@123" \
   -p 1433:1433 --name sqlserver_antecipacao \
   -d mcr.microsoft.com/mssql/server:2022-latest
 ````
 
-> **Dica:** Se já estiver rodando, você pode iniciar com `docker start sqlserver_antecipacao`.
+> 💡 **Dica:** Se o container já existir, use:
+>
+> ```bash
+> docker start sqlserver_antecipacao
+> ```
 
 ---
 
-### 2. Aplicar Migrações no Banco
+### 📦 2. Aplicar Migrações no Banco de Dados
 
 ```bash
 cd Antecipacao/Antecipacao.Data
@@ -32,16 +53,16 @@ dotnet ef database update
 
 ---
 
-### 3. Rodar o Backend e Frontend
-
-**Backend (.NET):**
+### 🧠 3. Rodar o Backend
 
 ```bash
 cd Antecipacao/Antecipacao.API
 dotnet run
 ```
 
-**Frontend (React):**
+---
+
+### 🌐 4. Rodar o Frontend
 
 ```bash
 cd antecipacao-app
@@ -49,19 +70,28 @@ npm install
 npm run dev
 ```
 
-Acesse:
+---
 
-* API: [http://localhost:5001](http://localhost:5001)
+### 🔗 Acessos Locais
+
+* Backend (API): [http://localhost:5001](http://localhost:5001)
 * Frontend: [http://localhost:5173](http://localhost:5173)
 
+---
 
-## Melhorias Possíveis
+## 💡 Melhorias Futuras
 
-- **Testes Automatizados:** Implementar testes unitários, de integração e end-to-end para garantir a qualidade do código.
-- **CI/CD:** Configurar um pipeline de Integração Contínua/Entrega Contínua (CI/CD) para automatizar o build, teste e deploy da aplicação.
-- **Tratamento de Erros e Logging:** Melhorar o tratamento de erros e a implementação de logging .
-- **Autenticação e Autorização:** Implementar um sistema de autenticação e autorização.
-- **Validação de Entrada:** Reforçar a validação de entrada de dados tanto no frontend quanto no backend.
-- **Otimização de Performance:** Otimizar consultas de banco de dados, endpoints da API e o carregamento do frontend.
-- **Documentação da API:** Gerar documentação da API.
+* ✅ **Testes Automatizados:** Unitários, de integração e E2E
+* ✅ **CI/CD:** Pipeline de build, testes e deploy
+* ✅ **Logging e Tratamento de Erros:** Centralizado e estruturado
+* ✅ **Autenticação e Autorização:** Implementar controle de acesso
+* ✅ **Validação de Dados:** Tanto no frontend quanto no backend
+* ✅ **Performance:** Otimizar queries, API e frontend
+* ✅ **Documentação da API:** Swagger ou similar
+
+---
+
+📁 Estrutura clara e orientada a **DDD** com foco em escalabilidade e manutenibilidade.
+
+---
 
